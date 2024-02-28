@@ -1,4 +1,4 @@
-# scout4azure
+# scout4cloud
 
 This is an automated script written in bash and is the automated version of Scoutsuit for cloud configuration audit. This version only automate microsoft Azure cloud configuration audit process which takes inputs from users like username, password, tenant_ID and Report_Name from user and give the report in HTML format.
 
