@@ -3,6 +3,7 @@
 This is an automated script written in bash and is the automated version of Scoutsuit for cloud configuration audit. This version only automate only AWS configuration audit and microsoft Azure cloud configuration audit process which takes inputs from users like AWS-Key-ID and Secret-Key-ID for AWS and username, password, tenant_ID for Microsoft Azure and Report_Name from user and give the report in HTML format.
 
 **#IMPORTANT NOTICE**
+
 Run this script as root user
 
 **#start the script**
