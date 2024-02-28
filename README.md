@@ -4,7 +4,7 @@ This is an automated script written in bash and is the automated version of Scou
 
 **#IMPORTANT NOTICE**
 
-Run this script as root user
+_Run this script as root user_
 
 **#start the script**
 
