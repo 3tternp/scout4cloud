@@ -4,7 +4,7 @@ This is an automated script written in bash and is the automated version of Scou
 
 **#start the script**
 
-git clone https://github.com/3tternp/scout4azure
+git clone https://github.com/3tternp/scout4cloud
 
 cd scout4cloud
 
