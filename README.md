@@ -6,11 +6,16 @@ This is an automated script written in bash and is the automated version of Scou
 
 git clone https://github.com/3tternp/scout4azure
 
-cd scout4azure 
+cd scout4cloud
 
+# For Azure 
 chmod +x scout4azure.sh 
 
 ./scout4azure.sh 
 
+# For AWS 
+chmod +x scout4aws.sh 
 
-Future update will include AWS, GCP and other cloud service provider automation in it. 
+./scout4aws.sh 
+
+Future update will include  GCP and other cloud service provider automation in it. 
