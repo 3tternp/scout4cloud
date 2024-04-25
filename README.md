@@ -13,7 +13,7 @@ git clone https://github.com/3tternp/scout4cloud
 cd scout4cloud
 
 # For executing all at one 
-chmof +x scout4cloud.sh 
+chmod +x scout4cloud.sh 
 
 ./scout4cloud.sh 
 
